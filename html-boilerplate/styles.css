@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 
-.num1, .num3, .num5{
+p {
   background-color: rgba(255, 128, 82, 0.5);
   font-family: Verdana, DejaVu Sans, sans-serif, monospace;
 }
