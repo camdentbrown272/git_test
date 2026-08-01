@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+}
+
+.header {
+  color: white;
+  background-color: red;
+  text-align: center;
+}
